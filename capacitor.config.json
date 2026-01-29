@@ -1,0 +1,10 @@
+{
+  "appId": "com.myioniccapacitor.app",
+  "appName": "ionic-capacitor-app",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
